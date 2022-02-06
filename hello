@@ -1,1 +1,89 @@
 hello
+
+
+
+Week 2 Lab:
+
+Task 1:
+Just an intro
+
+Task 2:
+I read every Layer before answering questions, I know I'll definitely have to go back and look before every question.
+
+Question 1
+Which layer would choose to send data over TCP or UDP?
+
+I read each Layer, looking for the keywords UDP or TCP
+I spot the word UDP in Layer 4, so I re-read it.
+I placed 4 as my answer, and it is correct.
+
+Question 2
+Which layer checks received packets to make sure that they haven't been corrupted?
+I remembered something about corruption since this was one of the more recent layers I read compared to the first few.
+Knowing this, I looked through both layer 1 and layer 2 first to see if the answer was there.
+Sure enough the word "corrupted" was used here.
+I place 2 as my answer, and it is correct.
+
+Question 3
+In which layer would data be formatted in preparation for transmission?
+I read something about formatting in Layer 5, seeing as it said it was "already formatted", I put my answer as 6.
+I was incorrect, the answer is not 6.
+Going back and reading through every other layer, I stumbled onto layer 2 stating that it does the very thing that the question asks.
+I place 2 as my 2nd answer, and it is correct.
+
+Question 4
+Which layer transmits and receives data?
+I read down the list again and noted that Layer 6 receives data from the application layer but it does not transmit. So I knew this wasn't the right answer.
+I struggled hard to find the answer since many of the layers transmit and receive data from eachother.
+However, the answer can't be anything that involves sending data to eachother, so I looked to see if any layer would send and recieve data from outside.
+Then I remembered, that the "physical" layer is literally physical and not inside the machine.
+So I reread Layer 1, and found that it did exactly what I asked for "This is where the electrical pulses that make up data transfer over a network are sent and received"
+I place 1 as my answer, and it is correct.
+
+Question 5
+Which layer encrypts, compresses, or otherwise transforms the initial data to give it a standardised format?
+This one was rather easy, I remember there being only 1 area where the word "compress" was used. I went to layer 6 and read through the description again.
+Sure enough, this had all the words "Encryption", "Compression" and "other transformations"
+I place 6 as my answer and it is correct.
+
+Question 6
+Which layer tracks communications between the host and receiving computers?
+This one had me stumped for a bit.
+I was re-reading through every layer for this one. I kept reading the question and then read a layer, rince and repeat.
+I managed to get to layer 5 when I noticed the word host. I went back to the question to make sure host was the right word.
+Sure enough, it was. The words used on this one was very confusion so I put 5 as a guess more than a "I know the answer"
+I place 5 as my answer and somehow it is correct. I made sure to re-read the layer just in case and I'm still stumped if that is really what it says.
+
+Question 7
+Which layer accepts communication requests from applications?
+It's incredibly easy. Layer 7 is literally named the "Application layer"
+I just put 7 and then it gave me a correct answer.
+
+Question 8
+Which layer handles logical addressing?
+I remember on question 6, I see logical addressing on layer 3. I went to re-read layer 3.
+Sure enough, it was there. I placed my answer as 3 and it said I was correct.
+
+Question 9
+When sending data over TCP, what would you call the "bite-sized" pieces of data?
+This is the first question that didn't ask for what layer it is in, but rather what the term bite-sized stood for.
+I went to my first question and remembered TCP being in layer 4 so I decided to go to layer 4.
+When I saw the parenthesis saying segments for TCP, I put segments as my answer. Sure enough that was it.
+
+(nice)
+
+Question 10
+Which layer would the FTP protocol communicate with?
+This is without a doubt the hardest question so far
+I searched for the words like protocol, or communicate.
+Protocol was most seen used in layer 4, so I thought that was the answer. It was not.
+Then I looked at the question and realized it said [Research].
+So I researched, I used google and looked up the answer. It said it was in layer 7.
+
+Question 11
+Which transport layer protocol would be best suited to transmit a live video?
+Considering I went over this in parenthesis numerous times, I simply went over to that spot and saw UDP as the answer.
+So sure enough, that was it.
+
+Task 3:
+Question 1:
