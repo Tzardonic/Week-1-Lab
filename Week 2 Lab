@@ -227,12 +227,68 @@ I figured since we're messing with networking, I would put the "internet" layer 
 To my surprised, the Internet layer was the correct answer.
 
 Task 7:
+Question 1
+Perform a whois search on facebook.com
+
+Question 2
+What is the registrant postal code for facebook.com?
+94025
+
+Question 3
+When was the facebook.com domain first registered (Format: DD/MM/YYYY)?
+I kept getting the format wrong, I kept thinking it was MM/DD/YYYY.
+29/03/1997
+
+Question 4
+[OSINT] What is the name of the golf course that is near the registrant address for microsoft.com?
+I simply googled it and found the answer was "Bellevue Golf Course"
+
+Question 5
+What is the registered Tech Email for microsoft.com?
+msnhst@microsoft.com
+
+The majority of the questions above were "look for where it said it is", it had little searching or reading.
+
+Task 8:
+Question 1
+What is DNS short for?
+I found the answer at the very top of the page, normally what an acronym stands for is usually displayed first to let the readers know what it is before talking more about it.
+I saw "domain name system" in parenthesis, so I put that as my answer and it worked fine.
+
+Question 2
+What is the first type of DNS server your computer would query when you search for a domain?
+I read through the 2nd paragraph, noticing that the answer was in the first sentence.
+I put "recursive" as my answer and it was alright.
+
+Question 3
+What type of DNS server contains records specific to domain extensions (i.e. .com, .co.uk*, etc)*? Use the long version of the name.
+I remember seeing the paranthesis about .com/.co.uk
+It said the answer was TLD, with the full name being "Top-Level Domain". That's my answer so I put it there.
+
+Question 4
+Where is the very first place your computer would look to find the IP address of a domain?
+I went back to find the answer, and checked that "The first thing that your computer does is check its local cache" if it already has its ip.
+I put "local cache" then clicked enter, the answer is correct.
+
+Question 5
+[Research] Google runs two public DNS servers. One of them can be queried with the IP 8.8.8.8, what is the IP address of the other one?
+I went to https://www.digwebinterface.com/ since I don't own a linux. I typed in "ns google.com" and found "ns@8.8.4.4 (Default):"
+I put "8.8.4.4" as the answer and it was somehow correct.
+
+Question 6
+If a DNS query has a TTL of 24 hours, what number would the dig query show?
+The number that the dig query shows is in seconds, so I'll need to times this by 60, then times the next number by 60 again.
+   24           1440
+*  60       *     60
+ ____       ________
+    0              0
++1440       +  86400
+_____       ________
+=1440       = "86400" is my answer.
 
 
 
 
-
-
-
+I'd like to know if you want me to make a new "blog" file or continue using this one for the next lab.
 
 
