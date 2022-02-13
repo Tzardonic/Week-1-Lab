@@ -1,2 +1,129 @@
 (I hope this is fine for Week 3)
 
+Well, it's 3 am in the morning and I have basically to work on this assignment and the quiz or else I'll forget.
+I watched the video and went into the discussions on Canvas to view a few topics and ask my own question about what an EMI does to cables.
+I then went to the Week 3 lab, and went ahead to start on that.
+
+
+I got a notification the moment I clicked on the link to allow supernova. No idea why it asked, I simply answered yes and continued.
+I read the first page of the lab from top to bottom, then start answering the questions by going back through what I read. Standard procedures.
+I saw this strange Topology minigame on the right side of my screen.
+It taught me how a the ring topology will stop sending data if there is a cut in the wire.
+It taught me how the bus topology can be overflowed with data and crash the system.
+It taught me what happens to the star topology if something were to damage the switch.
+
+Task 1
+
+Question 1:
+What does LAN stand for?
+
+I literally didn't have to search this up, anyone who has played a cracked version of Minecraft in high school understands this term very well, since this was the only form-
+-of multiplayer which meant you can only play with other students who are in your school and they are also using the same cracked client on their own computers.
+I typed my answer "Local Area Network" and not surprisingly, I was correct.
+
+Question 2:
+What is the verb given to the job that Routers perform?
+considering I looked in the verb section and missed the answer 3 times made me think finding waldo would be an easier challenge.
+I looked at "routing" and kept misreading that as "router", 3 times actually.
+as soon as I found out my mistake, I put that as my answer and it worked.
+
+Question 3:
+What device is used to centrally connect multiple devices on the local network and transmit data to the correct location?
+I remember reading about it, so I put "switch" as my answer and it worked just fine.
+
+Question 4:
+What topology is cost-efficient to set up?
+I remember hearing that star topology was the most expensive so it couldn't be that answer.
+The only 2 options left are bus and ring.
+I put bus topology as my guess and it worked just fine.
+
+Question 5:
+What topology is expensive to set up and maintain?
+I literally JUST said the answer in Question 4.
+I put Star Topology as the answer and it worked just fine.
+
+Question 6:
+Complete the interactive lab attached to this task. What is the flag given at the end?
+I did it already then closed the attachment before getting started on my other questions.
+I had to redo the entire interactive lab again to get the code: "THM{TOPOLOGY_FLAWS}"
+
+Task 2
+
+Another task, another giant page of words to read.
+
+Question 1:
+What is the technical term for dividing a network up into smaller pieces?
+I read this in the very first paragraph, not really much to say here.
+"Subnetting" was the answer.
+
+Question 2:
+How many bits are in a subnet mask?
+Right below the IP address example, it shows us how many bits are in 4 bytes and they can range from 0-255.
+"32" is my answer.
+
+Question 3:
+What is the range of a section (octet) of a subnet mask?
+I literally JUST said the answer in question 2:
+"0-255"
+
+Question 4: 
+What address is used to identify the start of a network?
+Looking at the graph, it shows only 3 addresses: "Network Address, Host Address, and Default Gateway" in that order.
+So "Network Address" was the answer.
+
+Question 5:
+What address is used to identify devices within a network?
+This is play the "copy+paste" game from the table to the answer.
+"Host Address"
+
+Question 6:
+What is the name used to identify the device responsible for sending data to another network?
+Again, the copy paste game.
+"Default Gateway"
+
+Task 3
+Time to read once again!
+on the plus side, this is rather short compared to the other 2 tasks, likewise this only has 4 questions.
+
+Question 1:
+What does ARP stand for?
+Like any other Question 1 of every task I've done so far, I went to the very top of the page to see what the answer was.
+"Address Resolution Protocol"
+
+Question 2:
+What category of ARP Packet asks a device whether or not it has a specific IP address?
+This was rather easy, what is a synonym for "ask", it's called "Request" and ARP Request is something that we read in the module.
+I put "Request" as my answer and it worked.
+
+Question 3:
+What address is used as a physical identifier for a device on a network?
+This one was a little tricky at first, but reading into the sentence helped me understand.
+"Mac Address"
+
+Question 4:
+What address is used as a logical identifier for a device on a network?
+I wasn't really confident in this answer, but considering the question had "** *******" as the syntax, I figured it was right.
+We also talked about this a bit on the page.
+sure enough, "ip address" was right.
+
+Task 4
+
+Here I thought nothing could be shorter than task 3, but task 4 has even less reading, and likewise only 3 questions.
+I'm rather tired, it's now 4:26 in the morning. Sacrificing my sleep since school is mandatory.
+
+Question 1:
+What type of DHCP packet is used by a device to retrieve an IP address?
+I looked at the graph, the graph makes this easier to understand.
+I put "DHCP Discover" as my answer and called it a day.
+
+Question 2:
+What type of DHCP packet does a device send once it has been offered an IP address by the DHCP server?
+I look at the graph again
+"DHCP Request" was the answer I got.
+
+Question 3:
+Finally, what is the last DHCP packet that is sent to a device from a DHCP server?
+"DHCP ACK" was the last thing on the graph.
+
+And that was the end of the lab for this week! I'm sorry if my last few blog questions were rather sloppy, I've been up all night and it's already 4:32 AM. Please forgive me.
+
