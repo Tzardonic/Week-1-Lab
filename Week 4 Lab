@@ -37,16 +37,49 @@ I looked and skimmed back the page and found that it would tell me that a cctld 
 Task 3
 Question 1: 
 What type of record would be used to advise where to send email?
-mx
+mx allows the user to send an email in the case that a website is down.
 
 Question 2:
 What type of record handles IPv6 addresses?
-aaaa
+"aaaa", literally didn't tell me much, all it said was that it can "resolve to IPv6 addresses, for example 2606:4700:20::681a:be5"
 
+Task 4
+Question 1:
+What field specifies how long a DNS record should be cached for?
+I remember this from earlier when we were doing the linux coding.
+"TTL" was called "Time to Live" and I thought it was funny when I saw it at the time.
+Sure enough, TTL was being mentioned so I put it as my answer.
 
+Question 2:
+What type of DNS Server is usually provided by your ISP?
+it sais that a recursive DNS server is used in the 2nd paragraph.
 
+Question 3:
+What type of server holds all the records for a domain?
+Going back and re-reading the entire page again because I forgot where the answer was.
+I read to paragraph 5 and it stated that "authoritative" was the choice...
+Besides getting the answer wrong 2 times because I kept mispelling the word authoritative, it finally accepted.
 
+Task 5
 
+Question 1:
+What is the CNAME of shop.website.thm?
+I was confused about what the heck I was supposed to do so I watched the video for any clues.
+It takes a bit but I learned how to do this terminal.
+I put "shops.myshopify.com" after a little trial and error (and being on the wrong button to search for)
+
+Question 2:
+What is the value of the TXT record of website.thm?
+THM{7012BBA60997F35A9516C2E16D2944FF}
+I mean, once you learn how to use the terminal, the rest is incredibly easy.
+
+Question 3:
+What is the numerical priority value for the MX record?
+"30", I kept trying to find the DNS on accident though.
+
+Question 4:
+What is the IP address for the A record of www.website.thm?
+"10.10.10.10", yeah there's not much to say on task 5 except in question 1.
 
 
 
