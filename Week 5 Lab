@@ -37,187 +37,38 @@ After so much issues with the stupid terminal, I got told 64 and put that as my 
 
 Task 4:
 
+Question 1: In Traceroute A, what is the IP address of the last router/hop before reaching tryhackme.com?
+"172.67.69.208" No idea what else to say, it was at the very end of Traceroute A
 
+Question 2: In Traceroute B, what is the IP address of the last router/hop before reaching tryhackme.com?
+"104.26.11.229" No idea what else to say, it was at the very end of Traceroute A
 
+Question 3: In Traceroute B, how many routers are between the two systems?
+"26" considering that's the amount of routers counted in order, and the last router from Question 2 is attached to number 26.
 
+/////////////////////////////////////////////////////////////
+None of these questions below can be answered until tomorrow
 
+Question 4: Check how many routers/hops are there between the AttackBox and the target VM.
 
 
+Task 5: literally incompletable w/o waiting until tomorrow.
 
 
+Question 1: What is the name of the running server?
 
+Question 2: What is the version of the running server (on port 80 of the VM)?
 
 
 
+Task 6
 
+Question 1: Use Netcat to connect to the VM port 21. What is the version of the running server?
 
+None of these questions above can be answered until tomorrow
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Task 7:
+Well this is just a summary, no questions here.
 
 
