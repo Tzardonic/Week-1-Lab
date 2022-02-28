@@ -47,25 +47,33 @@ Question 3: In Traceroute B, how many routers are between the two systems?
 "26" considering that's the amount of routers counted in order, and the last router from Question 2 is attached to number 26.
 
 /////////////////////////////////////////////////////////////
-None of these questions below can be answered until tomorrow
+The questions below are the reason I couldn't complete the lab in time.
 
 Question 4: Check how many routers/hops are there between the AttackBox and the target VM.
+Although this doesn't require me to answer it, I still counted 30.
 
 
-Task 5: literally incompletable w/o waiting until tomorrow.
-
+Task 5
 
 Question 1: What is the name of the running server?
+I figured out I was using the wrong IP the entire time, I absolutely hate this VM.
+You know... too bad they DON'T MAKE IT EASY to understand.
+Apache
 
 Question 2: What is the version of the running server (on port 80 of the VM)?
-
+I figured out I was using the wrong IP the entire time, I absolutely hate this VM.
+You know... too bad they DON'T MAKE IT EASY to understand.
+2.4.10
 
 
 Task 6
 
 Question 1: Use Netcat to connect to the VM port 21. What is the version of the running server?
+I figured out I was using the wrong IP the entire time, I absolutely hate this VM.
+You know... too bad they DON'T MAKE IT EASY to understand.
+0.17
 
-None of these questions above can be answered until tomorrow
+The questions above are the reason I couldn't complete the lab in time.
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 Task 7:
